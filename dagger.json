@@ -2,5 +2,6 @@
   "name": "dagger-badge",
   "sdk": "python",
   "engineVersion": "v0.12.7",
-  "exclude": [".venv", ".idea"]
+  "exclude": [".venv", ".idea"],
+  "source": "."
 }
